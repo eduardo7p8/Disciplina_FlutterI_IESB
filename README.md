@@ -2,6 +2,11 @@
 
 Trabalho final Flutter IESB - POS
 
+API utilizada:
+https://rickandmortyapi.com/api/character?page=1
+
+Tela Sobre: contem os dados do dev, podendo copiar apenas clicando encima dos dados como email, numero, e link do gitHub
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
